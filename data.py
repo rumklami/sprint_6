@@ -31,7 +31,3 @@ class Data:
     orders = [MainPageLocators.ORDER_HEAD, MainPageLocators.ORDER_BODY]
     colours = [OrderPageLocators.BLACK, OrderPageLocators.GREY]
     period = [1, 2, 3, 4, 5, 6, 7]
-
-
-class Driver:
-    driver_path = 'C:\Distr\geckodriver-master'
